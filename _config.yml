@@ -29,5 +29,5 @@ permalink: /episode/:title
 sass:
   sass_dir: css
 timezone: Asia/Tokyo
-title: Example title
+title: taisanラジオ
 url: https://taisan11.github.io/yattecastcustom/
