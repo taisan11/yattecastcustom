@@ -1,16 +1,16 @@
 actors:
-  alice:
-    image_url: /images/actors/alice.png
-    name: alice
-    url: http://sns.example.com/alice
-  bob:
-    image_url: /images/actors/bob.png
-    name: bob
-    url: http://sns.example.com/bob
-author: alice
-description: Example description
-description_long: Example long description
-email: info@example.com
+  taisan:
+    image_url: /images/actors/taisan.png
+    name: taisan
+    url: https://twitter.com/taisan_minna
+  bob11:
+    image_url: /images/actors/taisanico.png
+    name: taisan11
+    url: https://twitter.com/taisan_minna
+author: taisan11
+description: 趣味でPC、プログミングとかを不定期放送
+description_long: 趣味でPC、プログミングとかを不定期放送
+email: ないよ@ないよ.ないよ
 exclude:
   - docker
   - docker-compose.yml
@@ -20,9 +20,9 @@ exclude:
   - README.md
   - vendor
 google_analytics:
-hashtag: examplehashtag
+hashtag: taisanラジオ
 itunes_podcast_url:
-keywords: comma,separated,keywords
+keywords: PC,プログラミング,趣味
 language: ja
 markdown: kramdown
 permalink: /episode/:title
